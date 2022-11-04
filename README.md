@@ -1,6 +1,3 @@
-Computer Aided Designing(CAD) Project (using Autodesk Fusion 360 Software)
- 
-
 Semester Project 2020-21, Aeromodelling Club, Science & Technology Council, IIT Kanpur
 This repository contain files relevant to SnT Summer Project 2021 to learn Computer Aided Designing using Autodesk Fusion 360 Software offered by Aeromodelling Club, IIT Kanpur
 
